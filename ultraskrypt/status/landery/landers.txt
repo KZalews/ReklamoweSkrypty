@@ -6,6 +6,7 @@
 /lander/pkeiekjkjer733/index.html
 /lander/gov-pl_1770383181/index.php
 /lander/pl---rados--aw-tomasz-sikorski/index.html
+/lander/pl-nowy-konflikt-mi--dzy-onet-50--f1-f3-lend/index.html
 /lander/pl-marta-nawrocka-bp---onet-proclend-new_1769783216/index.html
 /lander/pl-marta-nawrocka--onet---gpw--60--proclend_1769780611/index.html
 /lander/pl-crg-cpa-new-magdalena---roda-v1-60--nordflow---onet-proclend---2-raza-pro-invest-/index.html
@@ -16,6 +17,7 @@
 /lander/pl-jk-new--60----gazetapl-proclend/index.html
 /lander/pl-jk-new--60----gazetapl-proclend---fly-but/index.html
 /lander/pl-jk-new--60----gazetapl-proclend---fly-but_1769614806/index.html
+/lander/pl-jk-new--60----gazetapl-proclend---fly-but-gpw/index.html
 /lander/pl-ms-new--60--magdalena---roda---gazeta-pl-bp/index.html
 /lander/pl---bitcoingoldmine---forma-2-top_1766047681/index.php
 /lander/pl---bitcoingoldmine---forma-2-top_175839213_1765893511/index.ph
@@ -27,7 +29,9 @@
 /lander/yar-z-cz-plprez--dob-_1765799642/index.php
 /lander/onet-mart---nawrock---60--baltic-pipe-proclend-crg/index.html
 /lander/onet-mart---nawrock---60--baltic-pipe-proclend-crg_1767690446/index.html
+/lander/onet-mart---nawrock---60--baltic-pipe-proclend-crg_17643402691_1764766520/index.html
 /lander/radwar-pl-api/index.html
+/lander/hr-form-bld_1768520075/index.php
 /lander/karol-zelensciy_nova-versiya2_1765447742/index.html
 /pl/
 /pol/
